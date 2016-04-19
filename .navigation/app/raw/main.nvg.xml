@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "jainakshat.in.housesupplies.MainActivity"/>
+      <point      
+        x = "1528"      
+        y = "348"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "jainakshat.in.housesupplies.SplashActivity"/>
+      <point      
+        x = "372"      
+        y = "120"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

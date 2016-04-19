@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">House Supplies</string>
+    <string name="gcm_defaultSenderId">814223565408</string>
+</resources>
